@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugsBunny", "BugsBunny\BugsBunny.csproj", "{A3E848AF-B76D-445F-8E30-8CC2C629B08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerBunny", "ServerBunny\ServerBunny.csproj", "{6296D493-4E1E-42C3-91E8-661DA3A3DDA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E848AF-B76D-445F-8E30-8CC2C629B08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E848AF-B76D-445F-8E30-8CC2C629B08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E848AF-B76D-445F-8E30-8CC2C629B08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E848AF-B76D-445F-8E30-8CC2C629B08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6296D493-4E1E-42C3-91E8-661DA3A3DDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6296D493-4E1E-42C3-91E8-661DA3A3DDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6296D493-4E1E-42C3-91E8-661DA3A3DDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6296D493-4E1E-42C3-91E8-661DA3A3DDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
